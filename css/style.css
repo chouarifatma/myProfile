@@ -5,5 +5,20 @@
     display: flex;
 }
 #background {
-    background-image: url(../asstes/0101.jpg)
+    background-image: url(../asstes/new.png)
+}
+h2{
+    color: crimson;
+}
+h1 {
+	color: rgb(5, 5, 5);
+	font-family: roboto;
+	text-align: center;
+}
+.box p {
+    color: darkslategrey;
+}  
+div{
+    height: 250px;
+    width: 190%;
 }
