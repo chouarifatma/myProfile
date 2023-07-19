@@ -1,0 +1,9 @@
+.first {
+    display: inline;
+}
+#avan{
+    display: flex;
+}
+#background {
+    background-image: url(../asstes/0101.jpg)
+}
